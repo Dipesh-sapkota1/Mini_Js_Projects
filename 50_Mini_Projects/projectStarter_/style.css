@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    font-family: 'Roborto', 'sans-serif';
+    font-family: 'Roboto', 'sans-serif';
     height: 100vh;
     display: flex;
     flex-direction: column;
